@@ -18,5 +18,6 @@ the License.
     <color name="tintColor">#2196F3</color>
     <color name="primaryTextColor">#000000</color>
     <color name="white">#ffffff</color>
+    <color name="maroon">#DC143C</color>
 
 </resources>

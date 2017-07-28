@@ -17,7 +17,8 @@
     android:layout_marginRight="0dp"
     android:layout_marginTop="0dp"
     android:orientation="vertical"
-    android:padding="0dp">
+    android:padding="0dp"
+    android:background="@color/maroon">
 
     <!-- Toolbar -->
     <include layout="@layout/toolbar"/>
