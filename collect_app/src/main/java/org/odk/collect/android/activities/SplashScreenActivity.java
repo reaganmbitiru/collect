@@ -107,13 +107,13 @@ public class SplashScreenActivity extends Activity {
             editor.commit();
             startSplashScreen(splashPath);
         } else {
-            endSplashScreen();
+               launchMainMenuActivity();
         }
 
     }
 
 
-    private void endSplashScreen() {
+    private void launchMainMenuActivity() {
 
         // launch new activity and close splash screen
         startActivity(new Intent(SplashScreenActivity.this, MainMenuActivity.class));
@@ -195,7 +195,7 @@ public class SplashScreenActivity extends Activity {
                 } catch (Exception e) {
                     Timber.e(e);
                 } finally {
-                    endSplashScreen();
+                    launchMainMenuActivity();
                 }
             }
         };

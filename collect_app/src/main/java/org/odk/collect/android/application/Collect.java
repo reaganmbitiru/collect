@@ -125,13 +125,11 @@ public class Collect extends Application {
             File dir = new File(dirName);
             if (!dir.exists()) {
                 if (!dir.mkdirs()) {
-                    throw new RuntimeException("ODK reports :: Cannot create directory: "
-                            + dirName);
+                    throw new RuntimeException(Collect.getInstance().getString(R.string.cannot_create_directory, dirName));
                 }
             } else {
                 if (!dir.isDirectory()) {
-                    throw new RuntimeException("ODK reports :: " + dirName
-                            + " exists, but is not a directory");
+                    throw new RuntimeException(Collect.getInstance().getString(R.string.path_not_dir, dirName));
                 }
             }
         }

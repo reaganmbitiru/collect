@@ -73,7 +73,7 @@
   <string name="location_provider_accuracy">Gebruikt %1$s. Nauwkeurigheid is %2$s m.</string>
   <string name="location_accuracy">Nauwkeurigheid is %1$s m</string>
   <string name="main_menu">Hoofmenu</string>
-  <string name="main_menu_details">Data collection made easier…</string>
+  <string name="odk_slogan">Data collection made easier…</string>
   <string name="manage_files">Verwijder formulieren</string>
   <string name="mark_finished">Definitief maken</string>
   <string name="noselect_error">Sorry, u heeft geen formulier gekozen!</string>

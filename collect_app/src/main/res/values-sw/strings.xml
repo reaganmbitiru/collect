@@ -71,7 +71,7 @@
   <string name="location_provider_accuracy">Inatumia %1$s. Usahihi ni %2$s m.</string>
   <string name="location_accuracy">Usahihi ni %1$s m</string>
   <string name="main_menu">Orodha Kuu</string>
-  <string name="main_menu_details">Ukusanyaji wa takwimu umerahisishwa…</string>
+  <string name="odk_slogan">Ukusanyaji wa takwimu umerahisishwa…</string>
   <string name="manage_files">Futa Fomu zilizohifadhiwa</string>
   <string name="mark_finished">Weka alama fomu imekamilishwa</string>
   <string name="noselect_error">Pole, hujachagua fomu yoyoyte!</string>

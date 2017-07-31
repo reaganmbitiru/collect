@@ -52,7 +52,7 @@
             android:gravity="center"
             android:paddingBottom="10dp"
             android:paddingTop="1dp"
-            android:text="@string/main_menu_details"
+            android:text="@string/odk_slogan"
             android:textColor="@color/primaryTextColor"
             android:textSize="17sp"/>
 
