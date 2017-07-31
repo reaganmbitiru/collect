@@ -28,7 +28,7 @@ import static org.robolectric.Shadows.shadowOf;
  */
 @Config(constants = BuildConfig.class)
 @RunWith(RobolectricTestRunner.class)
-public class MainActivityTest {
+public class LoginActivityTest {
     private MainMenuActivity mainMenuActivity;
 
     /**

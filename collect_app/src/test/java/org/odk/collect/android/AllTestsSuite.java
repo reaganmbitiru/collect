@@ -2,7 +2,7 @@ package org.odk.collect.android;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import org.odk.collect.android.activities.MainActivityTest;
+import org.odk.collect.android.activities.LoginActivityTest;
 import org.odk.collect.android.utilities.CompressionTest;
 import org.odk.collect.android.utilities.PermissionsTest;
 import org.odk.collect.android.utilities.TextUtilsTest;
@@ -13,7 +13,7 @@ import org.odk.collect.android.utilities.TextUtilsTest;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         //Name of tests which are going to be run by suite
-        MainActivityTest.class,
+        LoginActivityTest.class,
         PermissionsTest.class,
         TextUtilsTest.class,
         CompressionTest.class
