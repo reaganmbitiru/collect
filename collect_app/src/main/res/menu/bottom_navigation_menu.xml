@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_forms"
+        android:enabled="true"
+        android:icon="@drawable/ic_folder"
+        android:title="@string/text_forms"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_server"
+        android:enabled="true"
+        android:icon="@drawable/ic_sort"
+        android:title="@string/text_server"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_save_white"
+        android:title="@string/text_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_about"
+        android:enabled="true"
+        android:icon="@drawable/ic_assignment"
+        android:title="@string/text_about"
+        app:showAsAction="ifRoom" />
+</menu>
