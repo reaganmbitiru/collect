@@ -1,4 +1,4 @@
-package org.odk.collect.android.activities;
+package org.odk.collect.android.fragments;
 
 import android.support.v4.app.Fragment;;
 import android.os.Bundle;
