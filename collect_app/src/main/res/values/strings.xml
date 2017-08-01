@@ -510,8 +510,12 @@
 
     <string name="cannot_create_directory">ODK reports :: Cannot create directory: %s</string>
     <string name="path_not_dir">ODK reports :: %s" exists, but is not a directory</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="login">Login</string>
+    <string name="title_activity_main">Login</string>
+    <string name="title_activity_forms">Forms</string>
+    <string name="login">Dreams ODK</string>
     <string name="forgot_your_password">Forgot your password?</string>
     <string name="sign_in">Sign In</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="saved">Saved</string>
+    <string name="sent">Sent</string>
 </resources>
