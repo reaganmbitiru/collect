@@ -4,6 +4,8 @@
 
     <style name="Collect.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar" />
+
     <style name="editText_style">
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/edit_text_background</item>

@@ -49,7 +49,7 @@
 
         <Button
             style="@style/login_button_style"
-            android:text="@string/login"/>
+            android:text="@string/text_login"/>
 
         <TextView
             style="@style/text_view_style"

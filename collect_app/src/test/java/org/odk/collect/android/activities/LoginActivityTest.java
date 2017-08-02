@@ -53,7 +53,7 @@ public class LoginActivityTest {
     @Test
     public void layoutTest() throws Exception {
         //testing layout with layout id
-        assertEquals(R.id.rl, shadowOf(mainMenuActivity).getContentView().getId());
+        assertEquals(R.id.tabbed_forms_activity_layout, shadowOf(mainMenuActivity).getContentView().getId());
     }
 
     /**
