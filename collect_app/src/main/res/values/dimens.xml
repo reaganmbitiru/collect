@@ -53,4 +53,10 @@
     <dimen name="divier_height">3dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
+    <!-- registration message padding -->
+    <dimen name="registration_text_padding">5dp</dimen>
+
+    <!-- registration image size -->
+    <dimen name="registration_logo_padding">16dp</dimen>
+
 </resources>
